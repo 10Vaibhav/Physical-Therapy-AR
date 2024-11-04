@@ -39,7 +39,7 @@ This project is a physical therapy assistant that uses computer vision and pose 
 - [tanish Hande]
 
 ## Project Details
-- This project was created for the DIP (Digital Image Processing) Lab in YCCE (Yeshwantrao Chavan College of Engineering), where the contributors are students of the AIDS (Applied Instrumentation and Digital Systems) branch in their 3rd year.
+- This project was created for the DIP (Digital Image Processing) Lab in YCCE (Yeshwantrao Chavan College of Engineering), where the contributors are students of the AIDS  branch in their 3rd year.
 
 ## Acknowledgments
 - This project uses the MediaPipe library for pose estimation, which was developed by Google.
