@@ -37,6 +37,7 @@ This project is a physical therapy assistant that uses computer vision and pose 
 - [tanmayChikhale]
 - [sushrut wadhankar]
 - [tanish Hande]
+- [Ashwini Gote]
 
 ## Project Details
 - This project was created for the DIP (Digital Image Processing) Lab in YCCE (Yeshwantrao Chavan College of Engineering), where the contributors are students of the AIDS  branch in their 3rd year.
