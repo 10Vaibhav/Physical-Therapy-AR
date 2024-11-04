@@ -13,7 +13,7 @@ This project is a physical therapy assistant that uses computer vision and pose 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/tanmayChikhale/physical-therapy-ar.git
+   https://github.com/10Vaibhav/Physical-Therapy-AR.git
    ```
 2. Navigate to the project directory:
    ```
