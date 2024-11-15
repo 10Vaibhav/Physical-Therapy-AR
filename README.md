@@ -45,3 +45,7 @@ This project is a physical therapy assistant that uses computer vision and pose 
 ## Acknowledgments
 - This project uses the MediaPipe library for pose estimation, which was developed by Google.
 - The project's structure and functionality were inspired by various online resources and tutorials on computer vision and pose estimation.
+
+## 📄 License
+
+This project is open-source and available under the [Creative Commons Zero License](LICENSE).
